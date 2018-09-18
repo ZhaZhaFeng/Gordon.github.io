@@ -1,9 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 路高峰
+subtitle: 愿你风雨中是个大人，阳光下是个孩子
+welcome_message: <a href="http://www.yonyou.com/" target="_blank">用友集团</a>
+                # <br></br>
+                #<a href="https://www.baidu.com" target="_blank">有问题上百度，不过要仔细斟酌哦</a>
+description: 嗨，我是路高峰，一平凡的不能再平凡的人。正在修行，探求未知的世界。
+creator: <a href="https://github.com/ZhaZhaFeng">路高峰</a>
 
 url: "http://vno.onevcat.com"
 
@@ -13,17 +15,18 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue      
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 我的博客
+    description: 路高峰的博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 我的简历, description: 简历, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: 关于自己, description: 个人介绍, url: 'http://project.onevcat.com'}
 
 # Pagination
 gems: [jekyll-paginate]
