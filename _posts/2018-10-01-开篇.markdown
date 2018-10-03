@@ -16,4 +16,4 @@ date: 2018-10-01 22:27:24.000000000 +09:00
 
 如果想鞭策我请扫码，如果想唏嘘我请扫码：——）
 
-![感谢您的支持！](money.jpg)
+![感谢您的支持！](https://github.com/ZhaZhaFeng/Gordon.github.io/blob/master/_posts/money.jpg)
